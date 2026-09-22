@@ -1,0 +1,5 @@
+pandas
+numpy
+scikit-learn==1.9.1
+matplotlib
+fairlearn==0.14.0
